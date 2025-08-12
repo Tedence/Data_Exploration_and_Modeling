@@ -1,0 +1,962 @@
+{
+  "Insulin Clamp #1_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      247
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #1_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      247
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #1_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      247
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #2_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      220
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #2_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      220
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #2_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      220
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #3_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      261
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #3_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      261
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #3_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      261
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #4_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      250
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #4_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      250
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #4_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      250
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #5_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      280
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #5_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      280
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #5_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      280
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #6_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      271
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #6_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      271
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #6_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      271
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #7_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      182
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #7_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      182
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #7_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      182
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #8_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      189
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #8_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      189
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #8_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      189
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #9_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      193
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #9_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      193
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #9_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      193
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #10_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      196
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #10_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      196
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Insulin Clamp #10_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      196
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #1_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      152
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #1_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      152
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #1_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      152
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #2_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      158
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #2_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      158
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #2_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      158
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #3_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      138
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #3_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      138
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #3_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      138
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #4_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      157
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #4_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      157
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #4_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      157
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #5_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      161
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #5_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      161
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #5_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      161
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #6_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      154
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #6_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      154
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #6_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      154
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #7_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      167
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #7_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      167
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #7_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      167
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #8_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      180
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #8_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      180
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #8_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      180
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #9_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      161
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #9_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      161
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #9_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      161
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #10_Head_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      166
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #10_Hand_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      166
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  },
+  "Normal #10_Liver_spectrogram_with_signal.png": {
+    "time_range": [
+      0,
+      166
+    ],
+    "freq_range": [
+      0,
+      7
+    ],
+    "spectrogram_region": {
+      "x_min": 150,
+      "y_min": 65,
+      "x_max": 4175,
+      "y_max": 1065
+    }
+  }
+}
