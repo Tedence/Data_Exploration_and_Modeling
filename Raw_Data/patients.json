@@ -1,0 +1,289 @@
+{
+  "Insulin Clamp #1": {
+    "sub_dir": "Insulin Clamp #1 January 23 2025",
+    "tdms_file": "Patient3_0202.tdms",
+    "signal_file": "Insulin_Clamp_1_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-01-23 08:37:00",
+    "quiet_period_end": "2025-01-23 09:00:00",
+    "age": 36,
+    "weight": 96.8,
+    "height": 187,
+    "sex": "male"
+  },
+  "Insulin Clamp #2": {
+    "sub_dir": "Insulin Clamp #2 January 30, 2025",
+    "tdms_file": "Patient5_1.tdms",
+    "signal_file": "Insulin_Clamp_2_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-01-30 08:14:00",
+    "quiet_period_end": "2025-01-30 08:33:00",
+    "age": 36,
+    "weight": 93,
+    "height": 185,
+    "sex": "male"
+  },
+  "Insulin Clamp #3": {
+    "sub_dir": "Insulin Clamp #3 February 6 2025",
+    "tdms_file": "Patient_0201_1.tdms",
+    "signal_file": "Insulin_Clamp_3_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-02-06 08:40:00",
+    "quiet_period_end": "2025-01-30 08:42:00",
+    "age": 52,
+    "weight": 74,
+    "height": 173,
+    "sex": "male"
+  },
+  "Insulin Clamp #4": {
+    "sub_dir": "Insulin Clamp #4 February 13, 2025",
+    "tdms_file": "Patient_0205_1.tdms",
+    "signal_file": "Insulin_Clamp_4_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-02-13 08:29:00",
+    "quiet_period_end": "2025-02-13 08:33:00",
+    "age": 30,
+    "weight": 57,
+    "height": 158,
+    "sex": "male"
+  },
+  "Insulin Clamp #5": {
+    "sub_dir": "Insulin Clamp #5 February 20 2025",
+    "tdms_file": "Patient_0204_1.tdms",
+    "signal_file": "Insulin_Clamp_5_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-02-20 08:40:00",
+    "quiet_period_end": "2025-02-20 08:43:00",
+    "age": 27,
+    "weight": 96,
+    "height": 184,
+    "sex": "male"
+  },
+  "Insulin Clamp #6": {
+    "sub_dir": "Insulin Clamp #6 March 2 2025",
+    "tdms_file": "patient_0206_1.tdms",
+    "signal_file": "Insulin_Clamp_6_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-03-02 08:14:00",
+    "quiet_period_end": "2025-02-20 08:23:00",
+    "age": 43,
+    "weight": 75,
+    "height": 178,
+    "sex": "male"
+  },
+  "Insulin Clamp #7": {
+    "sub_dir": "Insulin Clamp #7 March 13 2025",
+    "tdms_file": "patient_0207_girl_1-001.tdms",
+    "signal_file": "Insulin_Clamp_7_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-03-13 08:21:00",
+    "quiet_period_end": "2025-02-20 08:41:00",
+    "age": 26,
+    "weight": 55,
+    "height": 152,
+    "sex": "female"
+  },
+  "Insulin Clamp #8": {
+    "sub_dir": "Insulin Clamp #8 March 20 2025",
+    "tdms_file": "patient_0208_1-001.tdms",
+    "signal_file": "Insulin_Clamp_8_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-03-20 09:14:00",
+    "quiet_period_end": "2025-03-20 09:15:00",
+    "age": 28,
+    "weight": 51,
+    "height": 157,
+    "sex": "female"
+  },
+  "Insulin Clamp #9": {
+    "sub_dir": "Insulin Clamp #9 March 23 2025",
+    "tdms_file": "patient_0209_1-001.tdms",
+    "signal_file": "Insulin_Clamp_9_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-03-23 08:47:00",
+    "quiet_period_end": "2025-03-23 08:48:00",
+    "age": 22,
+    "weight": 56,
+    "height": 151,
+    "sex": "female"
+  },
+  "Insulin Clamp #10": {
+    "sub_dir": "Insulin Clamp #10 March 25 2025",
+    "tdms_file": "patient_0210_1-001.tdms",
+    "signal_file": "Insulin_Clamp_10_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-03-25 08:28:00",
+    "quiet_period_end": "2025-03-25 08:40:00",
+    "age": 29,
+    "weight": 56,
+    "height": 155,
+    "sex": "female"
+  },
+  "Normal #1": {
+    "sub_dir": "Normal Subject #1 January 8, 2025",
+    "tdms_file": "First_healthy_patient_0101_1.tdms",
+    "signal_file": "Normal_1_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-01-08 08:49:00",
+    "quiet_period_end": "2025-01-08 09:00:00",
+    "age": 40,
+    "weight": 81,
+    "height": 186,
+    "sex": "male"
+  },
+  "Normal #2": {
+    "sub_dir": "Normal Subject #2 January 9, 2024",
+    "tdms_file": "healthy_21.tdms",
+    "signal_file": "Normal_2_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-01-09 08:25:00",
+    "quiet_period_end": "2025-01-09 08:44:00",
+    "age": 51,
+    "weight": 79.5,
+    "height": 174,
+    "sex": "male"
+  },
+  "Normal #3": {
+    "sub_dir": "Normal Subject #3 January 28, 2025",
+    "tdms_file": "paitent_4_1.tdms",
+    "signal_file": "Normal_3_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-01-28 08:24:00",
+    "quiet_period_end": "2025-01-28 08:44:00",
+    "age": 34,
+    "weight": 99,
+    "height": 176,
+    "sex": "male"
+  },
+  "Normal #4": {
+    "sub_dir": "Normal Subject #4 February 5, 2025",
+    "tdms_file": "patient_01_041.tdms",
+    "signal_file": "Normal_4_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-02-05 08:22:00",
+    "quiet_period_end": "2025-02-05 08:42:00",
+    "age": 34,
+    "weight": 82,
+    "height": 172,
+    "sex": "female"
+  },
+  "Normal #5": {
+    "sub_dir": "Normal Subject #5 February 12 2025",
+    "tdms_file": "01_05_0.tdms",
+    "signal_file": "Normal_5_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-02-12 08:19:00",
+    "quiet_period_end": "2025-02-12 08:19:00",
+    "age": 60,
+    "weight": 81,
+    "height": 170,
+    "sex": "female"
+  },
+  "Normal #6": {
+    "sub_dir": "Normal Subject #6 February 19 2025",
+    "tdms_file": "01_060.tdms",
+    "signal_file": "Normal_6_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-02-19 08:13:00",
+    "quiet_period_end": "2025-02-19 08:33:00",
+    "age": 23,
+    "weight": 77,
+    "height": 171,
+    "sex": "female"
+  },
+  "Normal #7": {
+    "sub_dir": "Normal Subject #7 February 26, 2025",
+    "tdms_file": "01_070.tdms",
+    "signal_file": "Normal_7_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-02-26 08:29:00",
+    "quiet_period_end": "2025-02-26 08:49:00",
+    "age": 38,
+    "weight": 67,
+    "height": 162,
+    "sex": "female"
+  },
+  "Normal #8": {
+    "sub_dir": "Normal Subject #8 March 8 2025",
+    "tdms_file": "01_080.tdms",
+    "signal_file": "Normal_8_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-03-05 08:04:00",
+    "quiet_period_end": "2025-03-05 08:24:00",
+    "age": 50,
+    "weight": 76,
+    "height": 187,
+    "sex": "male"
+  },
+  "Normal #9": {
+    "sub_dir": "Normal Subject #9 March 12, 2025",
+    "tdms_file": "01_090.tdms",
+    "signal_file": "Normal_9_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-03-12 08:06:00",
+    "quiet_period_end": "2025-03-12 08:26:00",
+    "age": 38,
+    "weight": 67,
+    "height": 180,
+    "sex": "female"
+  },
+  "Normal #10": {
+    "sub_dir": "Normal Subject #10 March 19, 2025",
+    "tdms_file": "01_100-001.tdms",
+    "signal_file": "Normal_10_downsampled_25hz.parquet",
+    "quiet_period_start": "2025-03-19 08:04:00",
+    "quiet_period_end": "2025-03-19 08:24:00",
+    "age": 56,
+    "weight": 87,
+    "height": 164,
+    "sex": "female"
+  },
+  "Additional #1": {
+    "sub_dir": "Base",
+    "tdms_file": "ML base_1.tdms",
+    "signal_file": "Additional_1_downsampled_25hz.parquet",
+    "age": 60,
+    "weight": 70,
+    "height": 165,
+    "sex": "female"
+  },
+  "Additional #2": {
+    "sub_dir": "GL Insulin recording",
+    "tdms_file": "GL insulin_1.tdms",
+    "signal_file": "Additional_2_downsampled_25hz.parquet",
+    "age": 6,
+    "weight": 70,
+    "height": 165,
+    "sex": "female"
+  },
+  "Additional #3": {
+    "sub_dir": "June 8 2025 EMF Insulin mimic #1",
+    "tdms_file": "morris_home_2.tdms",
+    "signal_file": "Additional_3_downsampled_25hz.parquet",
+    "age": 60,
+    "weight": 70,
+    "height": 165,
+    "sex": "female"
+  },
+  "volunteer_part1": {
+	"description": "2021_11_16",
+    "sub_dir": "Volunteers",
+    "tdms_file": "fruit_1.tdms",
+    "signal_file": "volunteer_part1_downsampled_25Hz.parquet",
+    "age": 60,
+    "weight": 70,
+    "height": 165,
+    "sex": "female"
+  },
+  "volunteer_part2": {
+	"description": "2021_12_07",
+    "sub_dir": "Volunteers",
+    "tdms_file": "fruit_1.tdms",
+    "signal_file": "volunteer_part2_downsampled_25Hz.parquet",
+    "age": 60,
+    "weight": 70,
+    "height": 165,
+    "sex": "female"
+  },
+  "volunteer_part3": {
+	"description": "2021_12_14",
+    "sub_dir": "Volunteers",
+    "tdms_file": "fruit_1.tdms",
+    "signal_file": "volunteer_part3_downsampled_25Hz.parquet",
+    "age": 60,
+    "weight": 70,
+    "height": 165,
+    "sex": "female"
+  },
+  "volunteer_part4": {
+	"description": "2021_12_15",
+    "sub_dir": "Volunteers",
+    "tdms_file": "fruit_1.tdms",
+    "signal_file": "volunteer_part4_downsampled_25Hz.parquet",
+    "age": 60,
+    "weight": 70,
+    "height": 165,
+    "sex": "female"
+  }
+}
