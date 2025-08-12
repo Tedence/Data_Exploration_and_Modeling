@@ -1,0 +1,14 @@
+[project]
+name = "project"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "notebook>=7.4.4",
+    "nptdms>=1.10.0",
+    "pandas>=2.3.1",
+    "pandas-stubs==2.3.0.250703",
+    "polars-lts-cpu>=1.31.0",
+    "scikit-learn==1.7.1",
+    "scipy-stubs==1.16.0.2",
+]
